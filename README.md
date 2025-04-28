@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Zinuo(She/Her) 
+- 🌱 I’m a student at Wellesley College studying physics and classics. 
+- 💞️ I’m interested in market forecasting and application of big data in physics, but I am also exploring the application of language models to classical text in digital humanities. 
+- 📫 How to reach me : zs111@wellesley.edu. 
